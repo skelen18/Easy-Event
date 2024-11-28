@@ -32,6 +32,14 @@ There is an addon available for **EasyEvent** called **EasyTab** that modifies t
 - Players are organized in the tab list by **team** and then **alphabetically**.
 - Designed to work specifically with **EasyEvent** and is primarily in **Czech**, with future English support planned.
 
+## EasyRuletka Addon
+
+In addition to **EasyEvent**, there's an exciting new **EasyRuletka** addon designed for a fun roulette mini-game, perfect for events and fun activities. It allows players to spin a roulette, with customizable number ranges and blacklist/whitelist options. This addon is specifically designed to work seamlessly with **EasyEvent**, but it can also be used independently on any server.
+
+- **Download EasyRuletka**: [Here](https://github.com/skelen18/Easy-Ruletka)
+
+**EasyRuletka** is currently available only in **Czech** for the help menu, but other parts of the plugin are in **English**.
+
 
 ## Installation
 
