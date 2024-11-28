@@ -1,0 +1,17 @@
+name: EasyEvent
+version: '${project.version}'
+main: skelen.easyevent.EasyEvent
+api-version: '1.20'
+prefix: EasyEvent
+authors: [LordSkelen18]
+description: Easy event plugin for RilyEvent
+
+commands:
+  event:
+    description: Hlavní příkaz pro správu eventu
+    usage: /<command>
+    aliases: [e]
+    permission: easyevent.admin
+    permission-message: Nemáš oprávnění použít tento příkaz.
+    tab-completer:
+      class: skelen.easyevent.EventTabCompleter
