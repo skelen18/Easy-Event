@@ -42,7 +42,7 @@ EasyEvent is compatible with Minecraft versions from **1.16** to **1.20.1**.
 
 ## Language Support
 
-Currently, EasyEvent only supports the **🇨🇿 Czech language**. English language support and further localization will be added in future versions.
+Currently, EasyEvent only supports the **Czech language**. English language support and further localization will be added in future versions.
 
 ## Bugs and Feedback
 
