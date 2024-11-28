@@ -17,6 +17,22 @@ EasyEvent offers a range of commands to help administrators manage in-game event
 - **Teleport Alive Players:** `/event tp alive` – Teleports all alive players to you.
 - **Teleport Dead Players:** `/event tp dead` – Teleports all dead players to you.
 
+## EasyTab Addon
+
+There is an addon available for **EasyEvent** called **EasyTab** that modifies the player tab list display. This addon enhances the tab list by displaying players from the **EasyEvent** plugin with color coding based on their status and organizes them by team and alphabetically for better readability.
+
+- **Download EasyTab**: [Here](https://github.com/skelen18/Easy-Tab)
+
+### Features of EasyTab:
+
+- Displays players in the tab list with color-coded names based on their status:
+  - **Admin**: Red
+  - **Alive**: Green
+  - **Dead**: Gray
+- Players are organized in the tab list by **team** and then **alphabetically**.
+- Designed to work specifically with **EasyEvent** and is primarily in **Czech**, with future English support planned.
+
+
 ## Installation
 
 1. Download the plugin from [releases](https://github.com/skelen18/Easy-Event/releases).
